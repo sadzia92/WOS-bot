@@ -306,7 +306,7 @@ def cleanup_removed_packages():
 UPDATE_SOURCES = [
     {
         "name": "GitHub",
-        "api_url": "https://api.github.com/repos/whiteout-project/bot/releases/latest",
+        "api_url": "https://api.github.com/repos/sadzia92/WOS-bot/releases/latest",
         "primary": True
     },
     {
